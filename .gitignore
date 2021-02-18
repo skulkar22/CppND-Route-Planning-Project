@@ -6,3 +6,7 @@ test.cpp
 build/
 bin/
 lib/
+.idea/
+P0267_RefImpl/
+cmake-build-debug/
+thirdparty/
